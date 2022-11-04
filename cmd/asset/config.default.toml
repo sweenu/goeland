@@ -40,6 +40,12 @@ password = "pass"
 ## Include title in header
 #include-title = false
 
+## Include a table of content (only relevant with the merge source type)
+#include-toc = false
+
+## Include the content (we could disable this to only have a table of content)
+#include-content = true
+
 ## Email timeout in milliseconds
 #timeout-ms = 5000
 
